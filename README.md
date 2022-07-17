@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CoffeeQuizDB
 
 ■ サービス概要
@@ -44,3 +45,5 @@
 
 ◆画面偏移図リンク
 https://www.figma.com/file/5KqKECJF1qjCh5ZeGuUaK3/Untitled?node-id=0%3A1
+=======
+>>>>>>> refs/remotes/origin/README
