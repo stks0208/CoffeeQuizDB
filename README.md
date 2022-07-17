@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CoffeeQuizDB
 
 ■ サービス概要
@@ -39,11 +38,9 @@
 
 ▼スケジュール
 企画〜技術調査：7/13切 , README〜ER図作成：7/16 〆切
-メイン機能実装：7/20 - 8/20〆切 , β版をRUNTEQ内リリース（MVP）:8/20 〆切 , 本番リリース：9月初周
+メイン機能実装：7/20 - 8/20〆切 , β版をRUNTEQ内リリース（MVP）:8/20 〆切 , 本番リリース：9月初週
 
 ◆ER図リンク
 
 ◆画面偏移図リンク
 https://www.figma.com/file/5KqKECJF1qjCh5ZeGuUaK3/Untitled?node-id=0%3A1
-=======
->>>>>>> refs/remotes/origin/README
