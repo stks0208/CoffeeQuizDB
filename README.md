@@ -41,5 +41,7 @@
 メイン機能実装：7/17 - 8/17〆切 , β版をRUNTEQ内リリース（MVP）:8/18 〆切 , 本番リリース：8月末
 
 ◆ER図リンク
+https://www.figma.com/file/5KqKECJF1qjCh5ZeGuUaK3/Untitled?node-id=0%3A1
 
 ◆画面偏移図リンク
+https://i.gyazo.com/3889a32f9bd42db616bc7d0848eb343c.png
